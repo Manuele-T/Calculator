@@ -16,10 +16,18 @@ This application, developed using Java Swing, allows a user to input two numbers
 
 # Screenshots
 
+- Add
+
 ![Addition](Screenshots/Addition.jpg)
+
+- Subtract
 
 ![Subtraction Login](Screenshots/Subtraction.jpg)
 
+- Multiply
+
 ![Multiplication](Screenshots/Multiplication.jpg)
+
+- Divide
 
 ![Division](Screenshots/Division.jpg)
